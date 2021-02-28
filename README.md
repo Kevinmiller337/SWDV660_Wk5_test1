@@ -1,1 +1,1 @@
-# Creating manual and automated tests for Jenkins 2/27/2021
+# Creating manual Jenkins jobs for Jenkins 2/27/2021
